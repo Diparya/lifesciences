@@ -18,13 +18,11 @@ const Hero = () => {
                         </div>
 
                         <div className='relative pl-11'>
-                            <img className='z-0'
+                            <img className='z-0 w-44'
                                 src='images/medicinebase.png' 
                                 alt="Elbrit Logo"
-                                width={190}
-                                height={90}
                             />
-                            <img className='absolute z-10 -top-9 -right-4 lg:-top-12'
+                            <img className='absolute z-10 -top-9 -right-4 lg:-top-12 lg:-right-0'
                                 src='images/medicine.png' 
                                 alt="Elbrit Logo"
                                 width={190}
